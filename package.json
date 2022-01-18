@@ -1,22 +1,22 @@
 {
-  "name": "jesting-testing-walkthrough",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/totalnoMartina/jesting-testing-walkthrough.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/totalnoMartina/jesting-testing-walkthrough/issues"
-  },
-  "homepage": "https://github.com/totalnoMartina/jesting-testing-walkthrough#readme",
-  "devDependencies": {
-    "jest": "^27.4.7"
-  }
+    "name": "jesting-testing-walkthrough",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/totalnoMartina/jesting-testing-walkthrough.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/totalnoMartina/jesting-testing-walkthrough/issues"
+    },
+    "homepage": "https://github.com/totalnoMartina/jesting-testing-walkthrough#readme",
+    "devDependencies": {
+        "jest": "^27.4.7"
+    }
 }
